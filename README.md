@@ -1,3 +1,3 @@
 # ancla.digital
 
-Guías orientativas para pymes que quieren ofertar al Estado. Sitio independiente, no oficial. Contacto: ancla.digital.co@gmail.com
+El sitio se mudó a https://ancla-digital.github.io/ofertar-al-estado/ (repo ancla-digital/ofertar-al-estado).
