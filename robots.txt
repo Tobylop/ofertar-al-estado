@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tobylop.github.io/ofertar-al-estado/sitemap.xml
